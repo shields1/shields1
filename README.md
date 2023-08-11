@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @shields1,
-- 👀 I’m a IMS and MQ systems programmer, writing code in C, COBOL, REXX, Python and Java.
-- 📫 How to reach me: isak@shields.nu
+- 📫 isak@shields.nu
